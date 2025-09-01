@@ -34,6 +34,12 @@
           <AssociatedConnUserName />
           <FullPath>SQLQuery0-DROP DATABASE.sql</FullPath>
         </FileNode>
+        <FileNode Name="SQLQuery1-CREATE ALL IN ONE.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-I644S2M\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-I644S2M\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQLQuery1-CREATE ALL IN ONE.sql</FullPath>
+        </FileNode>
         <FileNode Name="SQLQuery1-CREATE TABLES StudentsBranch.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-I644S2M\SQLEXPRESS:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>DESKTOP-I644S2M\SQLEXPRESS</AssociatedConnSrvName>
@@ -57,6 +63,18 @@
           <AssociatedConnSrvName>DESKTOP-I644S2M\SQLEXPRESS</AssociatedConnSrvName>
           <AssociatedConnUserName />
           <FullPath>SQLQuery3-CREATE TABLES Disciplines.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery4-ALTER Students.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-I644S2M\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-I644S2M\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQLQuery4-ALTER Students.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery4-CREATE TABLES Schedule.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-I644S2M\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-I644S2M\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQLQuery4-CREATE TABLES Schedule.sql</FullPath>
         </FileNode>
       </Items>
     </LogicalFolder>

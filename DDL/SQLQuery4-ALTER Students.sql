@@ -1,0 +1,9 @@
+--SQLQuery4-ALTER Students
+USE PD_411_SQL;
+GO
+
+ALTER TABLE		Students
+--ALTER COLUMN	student_id INT PRIMARY KEY IDENTITY(1,1);
+DROP COLUMN student_id
+--ADD COLUMN student_id INT PRIMARY KEY IDENTITY(1,1);
+;
